@@ -2,6 +2,12 @@
 title: "Brioche"
 date: 2022-03-25T17:40:30+01:00
 draft: false
+tags:
+ - sucré 
+ - petit déjeuner 
+ - goûter 
+categories :
+ - sucré
 ---
 
 Brioche
