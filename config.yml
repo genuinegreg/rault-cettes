@@ -1,4 +1,4 @@
-baseURL: "https://rault-cettes.elenetgreg.fr/"
+# baseURL: "https://rault-cettes.elenetgreg.fr/"
 title: Rault-cettes
 paginate: 5
 theme: PaperMod
