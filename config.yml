@@ -117,6 +117,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: Search
+      name: search
+      url: /search/
+      weight: 5
     - identifier: categories
       name: categories
       url: /categories/
