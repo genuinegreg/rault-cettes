@@ -1,12 +1,25 @@
-# baseURL: "https://rault-cettes.elenetgreg.fr/"
-title: Rault-cettes
+baseURL: "https://rault-cettes.elenetgreg.fr/"
+title: Rault-cettes / Recettes
 paginate: 5
 theme: PaperMod
+
+defaultContentLanguage: fr
 
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+
+
+enableGitInfo: true
+frontmatter:
+  date:
+  - :filename
+  - :default
+  lastmod:
+  - :git
+  - :filename
+  - :default
 
 # googleAnalytics: UA-123-45
 outputs:
@@ -21,18 +34,18 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Rault-cettes
+  title: Rault-cettes / Recettes
   description: "Des recettes"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: Elen et Greg
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
+  DateFormat: "2 January  2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
-  ShowReadingTime: true
-  ShowShareButtons: true
+  ShowReadingTime: false
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -117,16 +130,20 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: Search
-      name: search
+    - identifier: Rechèrche
+      name: Search
       url: /search/
       weight: 5
+    - identifier: Archives
+      name: Archives
+      url: /archives/
+      weight: 2
     - identifier: categories
-      name: categories
+      name: Catégories
       url: /categories/
       weight: 10
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
     # - identifier: example
