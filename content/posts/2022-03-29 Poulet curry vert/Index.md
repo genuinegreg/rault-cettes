@@ -1,11 +1,24 @@
 ---
 title : Poulet curry vert
 draft: true
+tags:
+ - salé 
+ - thai 
+ - épicé 
+ - poulet
+categories :
+ - salé
+cover:
+    image: "brioche.jpg" # or URL
+    alt: "<alt text>"
+    caption: "Brioche du 1er confinement (26-04-2020)"
+    relative: true # when using page bundles set this to true
+    hidden: false # only hide on current single pag
 ---
 
 Pour 4 personnes.
 - 400+ g de poulet
-- une 🥕
+- une (grosse) carote 🥕
 - 2 patates douces 🥔
 - du curry vert
 - de la crème de coco
