@@ -2,19 +2,15 @@
 title: "Brioche épeautre"
 date: 2022-03-25T17:40:30+01:00
 draft: false
+categories :
+ - sucré
 tags:
  - sucré 
  - petit déjeuner 
  - goûter 
  - épeautre
-categories :
- - sucré
 cover:
     image: "brioche.jpg" # or URL
-    alt: "<alt text>"
-    caption: "Brioche du 1er confinement (26-04-2020)"
-    relative: true # when using page bundles set this to true
-    hidden: false # only hide on current single pag
 ---
 
 Brioche
