@@ -2,15 +2,13 @@
 title: "Crêpes"
 date: 2022-03-25T17:40:30+01:00
 draft: false
+categories :
+ - sucré
 tags: 
  - sucré
  - goûter
 cover:
-    image: "crepes.jpg" # or URL
-    alt: "<alt text>"
-    caption: "<text>"
-    relative: true # when using page bundles set this to true
-    hidden: false # only hide on current single pag
+    image: "crepes.jpg"
 ---
 
 Pour 25-30? crêpes

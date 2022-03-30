@@ -1,12 +1,13 @@
 ---
 title : Poulet curry vert
+date: 2022-03-29
+categories :
+ - salé
 tags:
  - salé 
  - Thai 
  - épicé 
  - poulet
-categories :
- - salé
 # cover:
 #     image: "brioche.jpg" # or URL
 #     alt: "<alt text>"
