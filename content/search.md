@@ -1,8 +1,9 @@
 ---
-title: "Search" # in any language you want
-layout: "search" # is necessary
+title: Recherche
+layout: search
 # url: "/archive"
 # description: "Description for Search"
-summary: "search"
-placeholder: "placeholder text in search input box"
+summary: search
+placeholder: mots clés
+lastmod: 2022-03-31T12:35:32.988Z
 ---

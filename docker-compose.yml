@@ -1,11 +1,11 @@
 version: "3"
 services: 
   build:
-    image: klakegg/hugo:latest
+    image: klakegg/hugo:0.95.0
     volumes:
       - ".:/src"
   server:
-    image: klakegg/hugo:latest
+    image: klakegg/hugo:0.95.0
     command: server --baseURL "http://pi.hole"
     volumes:
       - ".:/src"
