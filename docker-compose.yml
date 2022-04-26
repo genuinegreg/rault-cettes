@@ -6,7 +6,7 @@ services:
       - ".:/src"
   server:
     image: klakegg/hugo:0.95.0
-    command: server --baseURL "http://pi.hole"
+    command: server --baseURL "http://pi.hole" -D
     volumes:
       - ".:/src"
     ports:

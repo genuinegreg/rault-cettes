@@ -1,12 +1,12 @@
 main:
   - identifier: search
-    name: Rechèrche
+    name: Recherche
     url: /search/
-    weight: 5
+    weight: 2
   - identifier: archives
     name: Archives
     url: /archives/
-    weight: 2
+    weight: 5
   - identifier: categories
     name: Catégories
     url: /categories/
