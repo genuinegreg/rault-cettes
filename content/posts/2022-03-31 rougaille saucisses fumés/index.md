@@ -9,22 +9,22 @@ tags:
   - saucisse
   - épicé
   - réunionnais
-lastmod: 2022-04-26T07:34:16.848Z
-description: Une recette de rougaille saucice
+lastmod: 2022-04-26T07:43:38.381Z
 
+# description: Une recette de rougaille saucice
 # cover:
 #     image: "brioche.jpg" # or URL
 ---
 
-Le rougaille saucisse c'ets meilleur avec des saucisse fumée !
+Le rougaille saucisse c'est meilleur avec des saucisses fumées !
 
 <!--more-->
 
 Pour 4-6 personnes,
 
- - 6 saucices fumée
+ - 6 saucisses fumées
  - Des tomates
- - dugimgembre
+ - du gingembre
  - du combawa (zeste ou frais ou congelé)
 
 

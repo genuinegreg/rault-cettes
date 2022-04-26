@@ -7,7 +7,7 @@ categories:
 tags:
   - salé
   - bzh
-lastmod: 2022-04-26T07:35:57.105Z
+lastmod: 2022-04-26T07:43:38.405Z
 
 # cover:
 #   image: crepes.jpg
@@ -17,12 +17,12 @@ Les galettes c'est bon !
 
 <!--more-->
 
-Pour 5-6 grande galettes,
+Pour 5-6 grandes galettes,
 
  - 200g de farine de blé noir
- - uen cuillere a soupe de farine de froment
- - 4 pincé de sel
- - 1 oeuf
+ - une cuillère à soupe de farine de froment
+ - 4 pincées de sel
+ - 1 œuf
  - 500ml d'eau
 
 
