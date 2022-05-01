@@ -17,7 +17,7 @@ Les galettes c'est bon !
 
 <!--more-->
 
-Pour 5-6 grandes galettes,
+Pour 5-6 grandes galettes (40cm),
 
  - 200g de farine de blé noir
  - une cuillère à soupe de farine de froment
