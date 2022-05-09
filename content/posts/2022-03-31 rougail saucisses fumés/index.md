@@ -9,14 +9,14 @@ tags:
   - saucisse
   - épicé
   - réunionnais
-lastmod: 2022-04-26T07:43:38.381Z
+lastmod: 2022-05-09T10:18:48.149Z
 
 # description: Une recette de rougaille saucice
-# cover:
-#     image: "brioche.jpg" # or URL
+cover:
+  image: rougail.jpg
 ---
 
-Le rougaille saucisse c'est meilleur avec des saucisses fumées !
+Le rougail saucisse c'est meilleur avec des saucisses fumées !
 
 <!--more-->
 
