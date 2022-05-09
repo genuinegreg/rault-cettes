@@ -7,10 +7,10 @@ categories:
 tags:
   - salé
   - bzh
-lastmod: 2022-04-26T07:43:38.405Z
+lastmod: 2022-05-09T10:20:27.522Z
 
-# cover:
-#   image: crepes.jpg
+cover:
+  image: galettes.jpg
 ---
 
 Les galettes c'est bon !

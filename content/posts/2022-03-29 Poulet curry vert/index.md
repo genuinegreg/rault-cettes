@@ -10,8 +10,10 @@ tags:
   - poulet
 draft: false
 
-# cover:
-#     image: "brioche.jpg" # or URL
+cover:
+  image: poulet_curry_vert.jpg
+lastmod: 2022-05-09T10:21:53.542Z
+
 #     alt: "<alt text>"
 #     caption: "Brioche du 1er confinement (26-04-2020)"
 #     relative: true # when using page bundles set this to true
